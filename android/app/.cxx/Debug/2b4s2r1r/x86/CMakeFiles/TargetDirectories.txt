@@ -1,0 +1,2 @@
+/Users/omar/StudioProjects/instant3/android/app/.cxx/Debug/2b4s2r1r/x86/CMakeFiles/edit_cache.dir
+/Users/omar/StudioProjects/instant3/android/app/.cxx/Debug/2b4s2r1r/x86/CMakeFiles/rebuild_cache.dir
